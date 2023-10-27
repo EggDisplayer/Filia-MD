@@ -9,13 +9,27 @@ let info = `
 ╰═┅═━––––––๑
 
 ╭━━━━「 *PREMIUM* 」
-┊• *1 Minggu:* 15K
+┊• *1 Hari:* 2K
+┊• *1 Minggu:* 12K
 ┊• *1 Bulan:* 45K
+╰═┅═━––––––๑
+
+╭━━━━「 *SEWA + PREMIUM* 」
+┊• *1 Minggu:* 17K
+┊• *1 Bulan:* 37K
+┊• *6 Bulan:* 105K
+╰═┅═━––––––๑
+
+╭━━━━「 *BUY LIMIT* 」
+┊• *+5 Limit:* 3K
+┊• *+15 Limit:* 8K
+┊• *+20 Limit:* 11K
+┊• *+50 Limit:* 21K
 ╰═┅═━––––––๑
 
 *PAYMENT:*
 
-• *Ovo:* [${povo}]
+• *SPay:* [${povo}]
 • *Dana:* [${pdana}]
 `
 conn.sendMessage(m.chat, { image: { url: pay }, caption: info }, m)
