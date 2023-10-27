@@ -72,9 +72,9 @@ global.sdc = '-' //discord
 global.snh = '-' //youtube
 
 //Donasi/Payment
-global.pdana = '081282405626' // Dana
-global.povo = '081282405626' // Ovo
-global.pgopay = '081282405626' // Gopay
+global.pdana = '08975626924' // Dana
+global.povo = '08975626924' // Ovo
+global.pgopay = '08975626924' // Gopay
 
 /// Api keys
 global.xyro = 'kUFRwQwcvN' //xyroine api key
