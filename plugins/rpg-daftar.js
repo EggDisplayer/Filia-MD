@@ -26,7 +26,7 @@ let handler = async function (m, { text, usedPrefix, command }) {
 
   age = parseInt(age);
 
-  if (age > 40) throw 'WOI TUA (。-`ω´-)';
+  if (age > 100) throw 'WOI TUA (。-`ω´-)';
   if (age < 5) throw 'Halah dasar bocil';
 
   user.name = name.trim();
