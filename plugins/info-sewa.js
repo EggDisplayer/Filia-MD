@@ -1,6 +1,6 @@
 import fetch from 'node-fetch'
 let handler = async (m, { conn }) => {
-let pay = 'https://telegra.ph/file/b1e431f99ebd4f91e1953.png'
+let pay = 'https://telegra.ph/file/9acf75835fdcbd7e9597d.jpg'
 let info = `
 ╭━━━━「 *SEWA* 」
 ┊• *1 Minggu:* 15K
