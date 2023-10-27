@@ -61,7 +61,7 @@ global.wibb = `${wktuwib}`
 global.nameown1 = 'SenR' // Optional
 global.nameown2 = 'SenR' // Optional
 global.thumb = 'https://telegra.ph/file/bab63c7be6a28c88d0351.jpg' // gambar di menu
-global.leave = 'https://telegra.ph/file/147af8c63d82681b7a5e8.jpg' /// Untuk BG leave
+global.leave = 'https://telegra.ph/file/5bfcc419ce5c36497e291.jpg' /// Untuk BG leave
 
 //Link Social Media Ganti Aja Kalau Ga Punya Biarin Aja
 global.myweb = '-' //website
