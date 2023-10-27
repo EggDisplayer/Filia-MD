@@ -36,40 +36,40 @@ const readMore = more.repeat(4001)
 
 /// Setting Dari Sini
 global.owner = [
-  ['6281282405626', 'Clayza Aubert', true],
+  ['628975626924', 'Clayza Aubert', true],
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '6283872069306'
-global.nomorown = '6281282405626'
-global.nomorown1 = '6281282405626'
-global.nomorown2 = '6281282405626'
-global.nomorwa = '6281282405626'
+global.nomorbot = '62895359831246'
+global.nomorown = '628975626924'
+global.nomorown1 = '628975626924'
+global.nomorown2 = '628975626924'
+global.nomorwa = '62895359831246'
 global.readMore = readMore
-global.author = 'Clara | Clayza | Amelia'
-global.namebot = '​Victoria Rosalind'
-global.wm = '©Victoria Rosalind By Aubert'
+global.author = 'SenR'
+global.namebot = '​🍔 Filia ✨'
+global.wm = '🍔FILIA✨ by SenR'
 global.watermark = wm
-global.wm2 = '©Victoria Rosalind By Aubert Team'
+global.wm2 = '🍔FILIA✨ by SenR'
 global.botdate = `Date: ${week} ${date}\nTime: ${wktuwib}`
 global.bottime = `Time: ${wktuwib}`
-global.titlebot = `​Victoria Rosalind`
-global.stickpack = '​©Victoria Rosalind'
-global.stickauth = `By Aubert Team`
+global.titlebot = `​🍔FILIA✨`
+global.stickpack = '​🍔FILIA✨'
+global.stickauth = `SenR`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
-global.nameown1 = 'Clayza Aubert' // Optional
-global.nameown2 = 'Clara Aubert' // Optional
-global.thumb = 'https://i.postimg.cc/WbtRbPNN/Victoria-V3-min.jpg' // gambar di menu
-global.leave = 'https://i.postimg.cc/yxvn10Ls/ssstik-io-1689170610318.jpg' /// Untuk BG leave
+global.nameown1 = 'SenR' // Optional
+global.nameown2 = 'SenR' // Optional
+global.thumb = 'https://telegra.ph/file/bab63c7be6a28c88d0351.jpg' // gambar di menu
+global.leave = 'https://telegra.ph/file/147af8c63d82681b7a5e8.jpg' /// Untuk BG leave
 
 //Link Social Media Ganti Aja Kalau Ga Punya Biarin Aja
-global.myweb = 'https://clayzaaubert.my.id' //website
-global.sig = 'https://www.instagram.com/Clayza73' //instagram
-global.sgh = 'https://github.com/ClaraAubert' //github
-global.sgc = 'https://chat.whatsapp.com/CFnyHsziHDTHFmnKDVKaSL' //group whatsapp
+global.myweb = '-' //website
+global.sig = '-' //instagram
+global.sgh = 'https://github.com/SenRyhn' //github
+global.sgc = '-' //group whatsapp
 global.sdc = '-' //discord
-global.snh = 'https://www.youtube.com/c/clayzaaubert' //youtube
+global.snh = '-' //youtube
 
 //Donasi/Payment
 global.pdana = '081282405626' // Dana
@@ -81,7 +81,7 @@ global.xyro = 'kUFRwQwcvN' //xyroine api key
 global.clayza = '' //clayzaaubert api key
 global.lolkey = '4b884384e3773477bd9166ba' // lol human api key
 global.rose = '4b884384e3773477bd9166ba' // rose api key
-global.uptime = 'u2291479-89dcb887c1ac0ce02e72f443' // Masukin APIKEY uptimerobot kamu disini ===== https://uptimerobot.com/dashboard?ref=website-header#mySettings
+global.uptime = 'u2350762-9f264ff816fe3d699e2c4c5e' // Masukin APIKEY uptimerobot kamu disini ===== https://uptimerobot.com/dashboard?ref=website-header#mySettings
 global.openai = 'OPENAI_API_KEY'  //api key bisa didapatkan dari https://openai.com/api/
 global.org = ''  //openAI Organization name
 global.deepai = ''
