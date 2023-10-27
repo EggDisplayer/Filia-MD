@@ -28,7 +28,7 @@ Buat kalian jangan lupa lihat rules bot supaya tidak terbanned (.rules), dan jik
 }
 let handler = async (m, { conn, usedPrefix: _p, __dirname, args, command}) => {
 let tags = {
-'victoriamenu': 'Victoria Menu',
+'victoriamenu': '🍔FILIA MENUS✨',
 }
  
   try {
