@@ -15,7 +15,7 @@ const defaultMenu = {
 ⌬〡︎ *Limit:* %limit Ⓛ
 
 ╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
-Victoria Rosalind adalah bot Whatsapp dengan fitur fitur menarik yang sudah di kategorikan seperti berikut, dan ada fitur story dimana jika kalian naik level maka akan ada potongan cerita yang sudah di sajikan, dan cerita itu ada sampai 5 season. Yang berjudul _*Destiny's Radiance: the mystery of eternity*_
+Filia adalah bot Whatsapp dengan fitur fitur menarik yang sudah di kategorikan seperti berikut, dan ada fitur story dimana jika kalian naik level maka akan ada potongan cerita yang sudah di sajikan, dan cerita itu ada sampai 5 season. Yang berjudul _*Destiny's Radiance: the mystery of eternity*_
 
 ╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
 Buat kalian jangan lupa lihat rules bot supaya tidak terbanned (.rules), dan jika bingung cara pakainya bisa melihat tutorial (.tutorial), Jika ada fitur yang eror silakan report dengan cara (.report).
