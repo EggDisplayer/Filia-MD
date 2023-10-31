@@ -16,6 +16,7 @@ handler.tags = ['rpg']
 handler.command = /^(mingguan)$/i
 
 handler.register = true
+handler.limit = true
 handler.fail = null
 
 export default handler
