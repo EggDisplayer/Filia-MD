@@ -15,6 +15,7 @@ handler.help = ['bulanan']
 handler.tags = ['rpg']
 handler.command = /^(bulanan)$/i
 handler.register = true
+handler.premium = true
 
 handler.fail = null
 
