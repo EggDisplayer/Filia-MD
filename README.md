@@ -1,6 +1,6 @@
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Kanit&size=35&duration=3000&pause=500&color=000000&background=8DBDC400&center=true&vCenter=true&random=false&width=435&lines=Lucia+Project.;Made+By+SenRyhn;or+SenR...;%3AD" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Kanit&size=35&duration=3000&pause=500&color=000000&background=8DBDC400&center=true&vCenter=true&random=false&width=435&lines=Filia+MD.;Made+By+SenRyhn;or+SenR...;%3AD" alt="Typing SVG" /></a>
 
 <p align="center">  
   <a href="https://github.com/SenRyhn">
